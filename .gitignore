@@ -1,3 +1,5 @@
 /PyEnv
 .idea
 .ipynb_checkpoints
+/images
+/hyperparam_tuning
