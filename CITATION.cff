@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this code in your research or software, please cite it as below."
 authors:
 - family-names: "Guruge"
   given-names: "Pasan Bhanu"
-title: "time-series-forcasting-with-facebook-prophet-lstm-hybrid-model"
+title: "Time series forecasting-based Kubernetes autoscaling using Facebook Prophet and Long Short-Term Memory Code"
 version: 1.0.0
 date-released: 2025-02-19
 url: "https://github.com/PasanBhanu/time-series-forcasting-with-facebook-prophet-lstm-hybrid-model"
